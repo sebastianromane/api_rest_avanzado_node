@@ -1,3 +1,3 @@
 Integrantes:
-* Valeria Cotés.
+* Valeria Cortés.
 * Sebastián Román.
